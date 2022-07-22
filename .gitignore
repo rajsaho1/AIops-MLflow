@@ -130,3 +130,7 @@ dmypy.json
 
 #Ignore environment
 env/
+#mlruns
+mlruns/
+#
+temp/
