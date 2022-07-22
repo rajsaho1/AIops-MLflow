@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/AIops-MLflow/mlruns/0/2e4d6ded68a641deb31741f4f37f0579/artifacts
+end_time: 1658414099744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 2e4d6ded68a641deb31741f4f37f0579
+run_uuid: 2e4d6ded68a641deb31741f4f37f0579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658414099698
+status: 3
+tags: []
+user_id: '10678313'
